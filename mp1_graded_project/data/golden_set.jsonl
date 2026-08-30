@@ -1,0 +1,2 @@
+{"query": "What is the capital of France?", "expected_answer": "Paris", "context": "France is a country in Europe. Its capital is Paris."}
+{"_comment": "Learners fill in 20 RAG test cases (query, context, expected answer)."}

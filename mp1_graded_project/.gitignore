@@ -1,0 +1,15 @@
+.env
+.venv
+__pycache__/
+*.sqlite3
+*.db
+eval_runs.db
+.DS_Store
+
+# Ignore runtime data but keep folders
+data/uploads/*
+!data/uploads/.gitkeep
+data/db/*
+!data/db/.gitkeep
+data/temp/*
+!data/temp/.gitkeep

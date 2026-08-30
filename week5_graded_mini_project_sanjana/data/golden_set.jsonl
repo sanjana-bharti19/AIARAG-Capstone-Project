@@ -1,0 +1,10 @@
+{"id": "j01", "company": "Acme Corp", "role": "Senior Software Engineer", "years_experience_required": 5, "notes": "clean — clear company + role + years"}
+{"id": "j02", "company": "Northwind Ltd", "role": "Data Analyst", "years_experience_required": 2, "notes": "clean — preferred used but still a stated minimum"}
+{"id": "j03", "company": "Globex International", "role": "Product Manager - Growth", "years_experience_required": 4, "notes": "clean — 'at least 4 years'"}
+{"id": "j04", "company": "Initech", "role": "Lead DevOps Engineer", "years_experience_required": 6, "notes": "slightly fuzzy — 'around 6 years' — accept 6"}
+{"id": "j05", "company": "Hooli", "role": "Junior Frontend Developer", "years_experience_required": 0, "notes": "edge — fresh grads OK = 0 years"}
+{"id": "j06", "company": "Pied Piper Inc.", "role": "Senior ML Engineer", "years_experience_required": 7, "notes": "fuzzy — '7+ years' typically taken as 7; exceptional candidates clause is colour text"}
+{"id": "j07", "company": "Soylent Industries", "role": "Engineering Manager", "years_experience_required": 3, "notes": "spelled-out number — 'about three years' → 3"}
+{"id": "j08", "company": "Wonka Confectionery Ltd", "role": "Senior UX Researcher", "years_experience_required": 5, "notes": "clean — 'five years' → 5"}
+{"id": "j09", "company": "Stark Industries", "role": "Cybersecurity Analyst", "years_experience_required": 3, "notes": "range 3-5 — take the minimum, 3. Accept 3 or 'between 3 and 5'."}
+{"id": "j10", "company": "Cyberdyne Systems", "role": "AI/ML Research Scientist", "years_experience_required": null, "notes": "edge — no years stated. Correct answer: null. Penalise if model fabricates a number."}
