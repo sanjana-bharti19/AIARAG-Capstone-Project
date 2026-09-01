@@ -9,7 +9,7 @@
       "years_experience_required": "5+"
     },
     "cost_usd": 3.1049999999999996e-05,
-    "latency_s": 2.093302916997345,
+    "latency_s": 1.9844984590017702,
     "prompt_tokens": 67,
     "completion_tokens": 35,
     "accuracy": 2,
@@ -26,7 +26,7 @@
       "years_experience_required": 2
     },
     "cost_usd": 2.985e-05,
-    "latency_s": 1.6220967920089606,
+    "latency_s": 2.0409126660088077,
     "prompt_tokens": 67,
     "completion_tokens": 33,
     "accuracy": 2,
@@ -43,7 +43,7 @@
       "years_experience_required": 4
     },
     "cost_usd": 3.18e-05,
-    "latency_s": 62.764867874997435,
+    "latency_s": 1.8558620830008294,
     "prompt_tokens": 72,
     "completion_tokens": 35,
     "accuracy": 3,
@@ -60,12 +60,12 @@
       "years_experience_required": 6
     },
     "cost_usd": 3.1349999999999996e-05,
-    "latency_s": 62.74252949998481,
+    "latency_s": 1.997095041006105,
     "prompt_tokens": 73,
     "completion_tokens": 34,
     "accuracy": 3,
     "parse_success": 1,
-    "llm_judge_score": 3
+    "llm_judge_score": 4
   },
   {
     "strategy": "zero_shot",
@@ -77,7 +77,7 @@
       "years_experience_required": 0
     },
     "cost_usd": 3.09e-05,
-    "latency_s": 62.604291833995376,
+    "latency_s": 1.8537887079874054,
     "prompt_tokens": 70,
     "completion_tokens": 34,
     "accuracy": 3,
@@ -94,7 +94,7 @@
       "years_experience_required": "7+"
     },
     "cost_usd": 3.2699999999999995e-05,
-    "latency_s": 62.87976991699543,
+    "latency_s": 1.9634760420012753,
     "prompt_tokens": 74,
     "completion_tokens": 36,
     "accuracy": 2,
@@ -111,7 +111,7 @@
       "years_experience_required": 3
     },
     "cost_usd": 3.045e-05,
-    "latency_s": 62.834366666007554,
+    "latency_s": 2.3224709579953924,
     "prompt_tokens": 71,
     "completion_tokens": 33,
     "accuracy": 3,
@@ -128,7 +128,7 @@
       "years_experience_required": 5
     },
     "cost_usd": 3.255e-05,
-    "latency_s": 62.9519130839908,
+    "latency_s": 2.057232249993831,
     "prompt_tokens": 65,
     "completion_tokens": 38,
     "accuracy": 2,
@@ -145,12 +145,12 @@
       "years_experience_required": "Three to five years"
     },
     "cost_usd": 3.2699999999999995e-05,
-    "latency_s": 63.03460937499767,
+    "latency_s": 1.9810271660098806,
     "prompt_tokens": 70,
     "completion_tokens": 37,
     "accuracy": 2,
     "parse_success": 1,
-    "llm_judge_score": 3
+    "llm_judge_score": 2
   },
   {
     "strategy": "zero_shot",
@@ -162,7 +162,7 @@
       "years_experience_required": "not specified"
     },
     "cost_usd": 3.4349999999999995e-05,
-    "latency_s": 62.96794500001124,
+    "latency_s": 1.876012625027215,
     "prompt_tokens": 77,
     "completion_tokens": 38,
     "accuracy": 2,
@@ -179,7 +179,7 @@
       "years_experience_required": 5
     },
     "cost_usd": 4.47e-05,
-    "latency_s": 62.57929745799629,
+    "latency_s": 2.2137817920011003,
     "prompt_tokens": 198,
     "completion_tokens": 25,
     "accuracy": 3,
@@ -196,7 +196,7 @@
       "years_experience_required": 2
     },
     "cost_usd": 4.41e-05,
-    "latency_s": 63.02981600002386,
+    "latency_s": 2.35806795899407,
     "prompt_tokens": 198,
     "completion_tokens": 24,
     "accuracy": 3,
@@ -213,7 +213,7 @@
       "years_experience_required": 4
     },
     "cost_usd": 4.6049999999999994e-05,
-    "latency_s": 62.65155141701689,
+    "latency_s": 1.9203609579999465,
     "prompt_tokens": 203,
     "completion_tokens": 26,
     "accuracy": 3,
@@ -230,12 +230,12 @@
       "years_experience_required": 6
     },
     "cost_usd": 4.56e-05,
-    "latency_s": 62.649215957993874,
+    "latency_s": 1.8857334580097813,
     "prompt_tokens": 204,
     "completion_tokens": 25,
     "accuracy": 3,
     "parse_success": 1,
-    "llm_judge_score": 3
+    "llm_judge_score": 4
   },
   {
     "strategy": "few_shot",
@@ -247,7 +247,7 @@
       "years_experience_required": 0
     },
     "cost_usd": 4.515e-05,
-    "latency_s": 62.56860120801139,
+    "latency_s": 2.371482250018744,
     "prompt_tokens": 201,
     "completion_tokens": 25,
     "accuracy": 3,
@@ -264,7 +264,7 @@
       "years_experience_required": 7
     },
     "cost_usd": 4.6349999999999995e-05,
-    "latency_s": 63.04644770899904,
+    "latency_s": 1.847279832989443,
     "prompt_tokens": 205,
     "completion_tokens": 26,
     "accuracy": 3,
@@ -281,7 +281,7 @@
       "years_experience_required": 3
     },
     "cost_usd": 4.4699999999999996e-05,
-    "latency_s": 62.687744750001,
+    "latency_s": 1.7907554160046857,
     "prompt_tokens": 202,
     "completion_tokens": 24,
     "accuracy": 3,
@@ -298,7 +298,7 @@
       "years_experience_required": 5
     },
     "cost_usd": 4.68e-05,
-    "latency_s": 62.79985158398631,
+    "latency_s": 1.8873612500028685,
     "prompt_tokens": 196,
     "completion_tokens": 29,
     "accuracy": 3,
@@ -315,7 +315,7 @@
       "years_experience_required": 3
     },
     "cost_usd": 4.515e-05,
-    "latency_s": 62.60278583399486,
+    "latency_s": 1.7829390410042834,
     "prompt_tokens": 201,
     "completion_tokens": 25,
     "accuracy": 3,
@@ -332,7 +332,7 @@
       "years_experience_required": null
     },
     "cost_usd": 4.74e-05,
-    "latency_s": 62.74022983299801,
+    "latency_s": 1.793398417008575,
     "prompt_tokens": 208,
     "completion_tokens": 27,
     "accuracy": 3,
@@ -349,7 +349,7 @@
       "years_experience_required": 5
     },
     "cost_usd": 3.78e-05,
-    "latency_s": 62.62897708301898,
+    "latency_s": 2.437710458005313,
     "prompt_tokens": 132,
     "completion_tokens": 30,
     "accuracy": 3,
@@ -366,7 +366,7 @@
       "years_experience_required": 2
     },
     "cost_usd": 3.7199999999999996e-05,
-    "latency_s": 62.43487866598298,
+    "latency_s": 1.83951720801997,
     "prompt_tokens": 132,
     "completion_tokens": 29,
     "accuracy": 3,
@@ -383,7 +383,7 @@
       "years_experience_required": 4
     },
     "cost_usd": 3.9149999999999996e-05,
-    "latency_s": 62.608219874993665,
+    "latency_s": 1.8527501249918714,
     "prompt_tokens": 137,
     "completion_tokens": 31,
     "accuracy": 3,
@@ -400,12 +400,12 @@
       "years_experience_required": 6
     },
     "cost_usd": 3.87e-05,
-    "latency_s": 63.00508779200027,
+    "latency_s": 1.8510460830002557,
     "prompt_tokens": 138,
     "completion_tokens": 30,
     "accuracy": 3,
     "parse_success": 1,
-    "llm_judge_score": 3
+    "llm_judge_score": 4
   },
   {
     "strategy": "structured",
@@ -417,7 +417,7 @@
       "years_experience_required": 0
     },
     "cost_usd": 3.8249999999999995e-05,
-    "latency_s": 1.9037337499903515,
+    "latency_s": 1.8185117919929326,
     "prompt_tokens": 135,
     "completion_tokens": 30,
     "accuracy": 3,
@@ -434,7 +434,7 @@
       "years_experience_required": 7
     },
     "cost_usd": 3.945e-05,
-    "latency_s": 1.742840958002489,
+    "latency_s": 2.262292166997213,
     "prompt_tokens": 139,
     "completion_tokens": 31,
     "accuracy": 3,
@@ -451,7 +451,7 @@
       "years_experience_required": 3
     },
     "cost_usd": 3.78e-05,
-    "latency_s": 62.769751415995415,
+    "latency_s": 1.8482649579818826,
     "prompt_tokens": 136,
     "completion_tokens": 29,
     "accuracy": 3,
@@ -468,7 +468,7 @@
       "years_experience_required": 5
     },
     "cost_usd": 3.9899999999999994e-05,
-    "latency_s": 1.7021521249844227,
+    "latency_s": 1.8677478750178125,
     "prompt_tokens": 130,
     "completion_tokens": 34,
     "accuracy": 2,
@@ -485,7 +485,7 @@
       "years_experience_required": 3
     },
     "cost_usd": 3.8249999999999995e-05,
-    "latency_s": 1.6703174590074923,
+    "latency_s": 2.2337159590097144,
     "prompt_tokens": 135,
     "completion_tokens": 30,
     "accuracy": 3,
@@ -502,7 +502,7 @@
       "years_experience_required": 0
     },
     "cost_usd": 4.1099999999999996e-05,
-    "latency_s": 63.36232841698802,
+    "latency_s": 2.0703469589934684,
     "prompt_tokens": 142,
     "completion_tokens": 33,
     "accuracy": 2,
@@ -519,7 +519,7 @@
       "years_experience_required": 5
     },
     "cost_usd": 3.345e-05,
-    "latency_s": 62.43360349998693,
+    "latency_s": 1.8523919580038637,
     "prompt_tokens": 87,
     "completion_tokens": 34,
     "accuracy": 3,
@@ -536,7 +536,7 @@
       "years_experience_required": 2
     },
     "cost_usd": 3.285e-05,
-    "latency_s": 62.93876270900364,
+    "latency_s": 2.788390708999941,
     "prompt_tokens": 87,
     "completion_tokens": 33,
     "accuracy": 2,
@@ -553,7 +553,7 @@
       "years_experience_required": 4
     },
     "cost_usd": 3.48e-05,
-    "latency_s": 63.121287624991965,
+    "latency_s": 1.840650291997008,
     "prompt_tokens": 92,
     "completion_tokens": 35,
     "accuracy": 3,
@@ -570,7 +570,7 @@
       "years_experience_required": 6
     },
     "cost_usd": 3.4349999999999995e-05,
-    "latency_s": 63.13391416700324,
+    "latency_s": 1.9489582079986576,
     "prompt_tokens": 93,
     "completion_tokens": 34,
     "accuracy": 3,
@@ -587,7 +587,7 @@
       "years_experience_required": 0
     },
     "cost_usd": 3.39e-05,
-    "latency_s": 1.5686495410045609,
+    "latency_s": 1.7907214169972576,
     "prompt_tokens": 90,
     "completion_tokens": 34,
     "accuracy": 3,
@@ -604,7 +604,7 @@
       "years_experience_required": 7
     },
     "cost_usd": 3.51e-05,
-    "latency_s": 62.57173775002593,
+    "latency_s": 2.0957124999840744,
     "prompt_tokens": 94,
     "completion_tokens": 35,
     "accuracy": 3,
@@ -621,7 +621,7 @@
       "years_experience_required": 3
     },
     "cost_usd": 3.345e-05,
-    "latency_s": 62.985411333007505,
+    "latency_s": 1.857612791005522,
     "prompt_tokens": 91,
     "completion_tokens": 33,
     "accuracy": 3,
@@ -638,7 +638,7 @@
       "years_experience_required": 5
     },
     "cost_usd": 3.555e-05,
-    "latency_s": 1.8353693329845555,
+    "latency_s": 2.3342183329805266,
     "prompt_tokens": 85,
     "completion_tokens": 38,
     "accuracy": 2,
@@ -655,7 +655,7 @@
       "years_experience_required": "3-5"
     },
     "cost_usd": 3.51e-05,
-    "latency_s": 62.61399158302811,
+    "latency_s": 1.834206291998271,
     "prompt_tokens": 90,
     "completion_tokens": 36,
     "accuracy": 2,
@@ -672,7 +672,7 @@
       "years_experience_required": "Not specified"
     },
     "cost_usd": 3.735e-05,
-    "latency_s": 62.72397137500229,
+    "latency_s": 2.385374999983469,
     "prompt_tokens": 97,
     "completion_tokens": 38,
     "accuracy": 2,

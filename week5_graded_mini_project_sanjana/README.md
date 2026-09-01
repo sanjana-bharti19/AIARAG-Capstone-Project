@@ -45,16 +45,16 @@ and compare each strategy using:
 pip install -r requirements.txt
 ```
 
-4. Set your OpenAI API key:
+4. Set OpenAI API key:
 
 ```bash
-export OPENAI_API_KEY="your_api_key_here"
+export OPENAI_API_KEY="api_key_here"
 ```
 
 or create a `.env` file in the project root with:
 
 ```env
-OPENAI_API_KEY=your_api_key_here
+OPENAI_API_KEY=api_key_here
 ```
 
 ---
@@ -120,10 +120,14 @@ Some models return markdown code fences. The parser handles that automatically, 
 
 ## Expected output
 
-After running the script, you should have:
+After running the script, we should have:
 
 - a printed comparison table in the terminal
 - a `results.json` file in the project root
 - a summary write-up in `mp1_comparison.md`
 
-This gives you both the raw results and a concise comparison of the strategies.
+This gives  both the raw results and a concise comparison of the strategies.
+
+Git repo link:
+
+https://github.com/sanjana-bharti19/AIARAG-Capstone-Project
