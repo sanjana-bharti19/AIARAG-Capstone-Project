@@ -212,16 +212,19 @@ def ingest_chunks(chunks: list[dict[str, Any]]) -> None:
 
 def retrieve(query: str, k: int = 3) -> list[dict[str, Any]]:
     query_vector = embed_texts([query])[0]
-    hits = qdrant.search(
+    response = qdrant.query_points(
         collection_name=COLLECTION_NAME,
-        query_vector=query_vector,
+        query=query_vector,
         limit=k,
+        with_payload=True,
+        with_vectors=False,
     )
 
+    hits = getattr(response, "points", []) or []
     results: list[dict[str, Any]] = []
     for hit in hits:
-        payload = hit.payload or {}
-        payload["score"] = hit.score
+        payload = getattr(hit, "payload", None) or {}
+        payload["score"] = getattr(hit, "score", None)
         results.append(payload)
 
     return results
