@@ -23,7 +23,7 @@ class Settings(BaseSettings):
     TEMPERATURE: float = 0.0
     MAX_TOKENS: int = 500
 
-    QDRANT_URL: str = "http://localhost:6333"
+    QDRANT_URL: str = "https://8471d0ad-ea63-4db2-b3fa-baedaed94589.australia-southeast1-0.gcp.cloud.qdrant.io"
     QDRANT_API_KEY: str = ""
 
     COLLECTION_NAME: str = "mp2_sherlock"
