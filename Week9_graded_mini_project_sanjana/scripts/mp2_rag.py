@@ -246,6 +246,7 @@ def answer(question: str, k: int = 3) -> dict[str, Any]:
     context_parts: list[str] = []
     citations: list[dict[str, str]] = []
     for hit in hits:
+        source = hit.get("source", hit.get("title", "Unknown"))
         title = hit.get("title", "Unknown")
         section = hit.get("section", "Overview")
         text = hit.get("text", "").strip()
@@ -254,7 +255,7 @@ def answer(question: str, k: int = 3) -> dict[str, Any]:
 
         context_parts.append(f"[Source: {title} — {section}]\n{text}")
         citations.append({
-            "source": title,
+            "source": source,
             "title": title,
             "section": section,
         })

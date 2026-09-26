@@ -1,0 +1,43 @@
+
+  Validating 2 questions from predefined_questions.jsonl…
+
+  ✓ q1_red_headed_league_assistant
+      Q: Who was the assistant working at Jabez Wilson's pawnshop, and what was his real identity?
+      Cited: 01_red_headed_league.txt
+      Expected: 01_red_headed_league.txt
+      Facts matched: 1/5
+      Latency: 3432ms
+
+  ✓ q2_speckled_band_murder_weapon
+      Q: What killed Julia Stoner at Stoke Moran, and how was the method discovered?
+      Cited: 02_speckled_band.txt
+      Expected: 02_speckled_band.txt
+      Facts matched: 4/6
+      Latency: 2481ms
+
+  Source-match: 2/2
+
+  Validating 3 questions from learner_questions.jsonl…
+
+  ✓ q3_red_headed_league_task
+      Q: What unusual work did Jabez Wilson have to do every day for the Red-Headed League, and how much was he paid?
+      Cited: 01_red_headed_league.txt
+      Expected: 01_red_headed_league.txt
+      Facts matched: 3/3
+      Latency: 2166ms
+
+  ✓ q4_scandal_note_clue
+      Q: In A Scandal in Bohemia, what specific clue in the note told Holmes it had come from Bohemia, and what did that clue mean?
+      Cited: 05_scandal_in_bohemia.txt
+      Expected: 05_scandal_in_bohemia.txt
+      Facts matched: 3/3
+      Latency: 2322ms
+
+  ✓ q5_speckled_band_motive
+      Q: How did Holmes explain Julia Stoner's death in The Adventure of the Speckled Band, and why did Doctor Roylott kill her?
+      Cited: 02_speckled_band.txt
+      Expected: 02_speckled_band.txt
+      Facts matched: 1/3
+      Latency: 2237ms
+
+  Source-match: 3/3

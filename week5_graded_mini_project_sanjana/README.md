@@ -64,7 +64,7 @@ OPENAI_API_KEY=api_key_here
 From the project root:
 
 ```bash
-python prompt.py
+python scripts/prompt.py
 ```
 
 This script will:
