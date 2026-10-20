@@ -1,0 +1,19 @@
+
+  id                              type     hit   abstained  grounded  ok
+  --------------------------------------------------------------------------
+  q1_red_headed_league_assistant  answer   ✓     ✗          ✓         ✓
+  q2_speckled_band_weapon         answer   ✓     ✗          ✓         ✓
+  q3_scandal_bohemia_adler        answer   ✓     ✗          ✓         ✓
+  q4_engineers_thumb_press        answer   ✓     ✗          ✓         ✓
+  abstain_moriarty                abstain  ✗     ✓          ✗         ✓
+  abstain_out_of_domain           abstain  ✗     ✓          ✗         ✓
+  q5_blue_carbuncle_gemstone      answer   ✓     ✗          ✓         ✓
+  q6_blue_carbuncle_ryder         answer   ✓     ✗          ✓         ✓
+  abstain_moriarty_lerner         abstain  ✗     ✓          ✗         ✓
+  --------------------------------------------------------------------------
+
+  Retrieval hit rate    : 1.0   (6 answerable questions)
+  Grounded & cited rate : 1.0   (KPI: grounded response rate)
+  Abstention accuracy   : 1.0   (3 should-abstain questions)
+  Hallucination rate    : 0.0   (KPI: hallucination rate)
+
